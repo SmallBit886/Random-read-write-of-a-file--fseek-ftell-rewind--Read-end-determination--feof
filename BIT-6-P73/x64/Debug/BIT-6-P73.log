@@ -1,0 +1,5 @@
+﻿  test.c
+G:\C_Text\BIT-6-P73\BIT-6-P73\test.c(118,18): warning C4013: “strerror”未定义；假设外部返回 int
+G:\C_Text\BIT-6-P73\BIT-6-P73\test.c(118,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+G:\C_Text\BIT-6-P73\BIT-6-P73\test.c(118,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  BIT-6-P73.vcxproj -> G:\C_Text\BIT-6-P73\x64\Debug\BIT-6-P73.exe
